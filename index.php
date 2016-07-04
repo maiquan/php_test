@@ -17,5 +17,21 @@ echo "$drink is $color and $power makes it special.\n";
 
 list($drink, , $power) = $info;
 echo "$drink has $power.\br";
+
+
+
+
+
+
+
+sssssss
+ssssss
+ssssss
+sssss
+s
+
+
+
+
 ?>
 
